@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "633755398055",
+    "project_id": "ridebikeapp",
+    "storage_bucket": "ridebikeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633755398055:android:75c21e9f2e827a3d279082",
+        "android_client_info": {
+          "package_name": "com.example.ridebike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633755398055-6aujkg8obu2f0uf2q2jn9q2e7p1fl5t2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ridebike",
+            "certificate_hash": "9645f38df60277c1d9667d1d59a78d5464aac755"
+          }
+        },
+        {
+          "client_id": "633755398055-6u1e0oas8cgbepmfv3ogu3melnsnie9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwSwnh5qf9_Z5Wj3uvUeh_8sdnjNuLC5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633755398055-6u1e0oas8cgbepmfv3ogu3melnsnie9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
